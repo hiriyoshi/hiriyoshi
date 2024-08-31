@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiriyoshi&label=Profile%20views&color=0e75b6&style=flat" alt="hiriyoshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiriyoshi" alt="hiriyoshi" /></a> </p>
-
 - 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://hiriyoshi.github.io/Portfolio/](https://hiriyoshi.github.io/Portfolio/)
